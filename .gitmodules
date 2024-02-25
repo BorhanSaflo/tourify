@@ -1,0 +1,6 @@
+[submodule "tourify-android-app"]
+	path = tourify-android-app
+	url = https://github.com/BorhanSaflo/tourify-android-app
+[submodule "tourify-backend"]
+	path = tourify-backend
+	url = https://github.com/BorhanSaflo/tourify-backend
